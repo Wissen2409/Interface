@@ -18,8 +18,12 @@ Calis(new Peugeot());
 // Interface : 
 
 
+IAraba araba1= new Peugeot();
+//
 
 static void Calis(IAraba araba){
-    
+
     araba.Calis();
 }
+
+// bir interface yazıp bu interfacenden bazı sınıfları implement ediniz!!!

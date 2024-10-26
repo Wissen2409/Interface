@@ -4,7 +4,11 @@ public class Peugeot : IAraba
     {
         throw new NotImplementedException();
     }
+    public void BenzinAl(){
 
+
+        
+    }
     public void Calis()
     {
         Console.WriteLine("Peugeot çalıştı");

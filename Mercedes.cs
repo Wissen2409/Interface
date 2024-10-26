@@ -1,4 +1,4 @@
-public class Mercedes : IAraba
+public class Mercedes :IAraba
 {
     public void BakimYap(int sure)
     {
