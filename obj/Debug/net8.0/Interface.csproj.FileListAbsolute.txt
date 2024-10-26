@@ -1,0 +1,14 @@
+/Users/emrahelis/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/Users/emrahelis/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/Users/emrahelis/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Interface/bin/Debug/net8.0/Interface
+/Users/emrahelis/Interface/bin/Debug/net8.0/Interface.deps.json
+/Users/emrahelis/Interface/bin/Debug/net8.0/Interface.runtimeconfig.json
+/Users/emrahelis/Interface/bin/Debug/net8.0/Interface.dll
+/Users/emrahelis/Interface/bin/Debug/net8.0/Interface.pdb
+/Users/emrahelis/Interface/obj/Debug/net8.0/Interface.dll
+/Users/emrahelis/Interface/obj/Debug/net8.0/refint/Interface.dll
+/Users/emrahelis/Interface/obj/Debug/net8.0/Interface.pdb
+/Users/emrahelis/Interface/obj/Debug/net8.0/Interface.genruntimeconfig.cache
+/Users/emrahelis/Interface/obj/Debug/net8.0/ref/Interface.dll
